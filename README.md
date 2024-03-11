@@ -11,6 +11,6 @@ Abre una terminal.
 Navega al directorio raíz del proyecto.
 Ejecuta el siguiente comando:
 
-========
+
 gcc main.c -o programa
-========
+
