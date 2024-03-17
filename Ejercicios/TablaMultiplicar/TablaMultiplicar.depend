@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1710631341 source:d:\programas\programación en c de cero a experto con estructuras de datos\ejercicios\tablamultiplicar\main.c
+	<stdio.h>
+	<conio.h>
+	"Tabla.h"
+
+1710631394 d:\programas\programación en c de cero a experto con estructuras de datos\ejercicios\tablamultiplicar\tabla.h
+
